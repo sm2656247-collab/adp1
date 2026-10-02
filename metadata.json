@@ -1,0 +1,6 @@
+{
+  "name": "Comfort Ladies Garments",
+  "description": "Premium Pakistani women's fashion e-commerce platform offering luxury stitched suits, unstitched collections, kurtis, and designer wear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
